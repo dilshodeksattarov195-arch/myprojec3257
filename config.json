@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "paymentcerify",
+        "uuid": 17747393,
+        "checksum": "kgv98b"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "production"
+    }
+}
